@@ -1,0 +1,10 @@
+name: ebay_api_config
+
+# Trading API - https://www.x.com/developers/ebay/products/trading-api
+api.ebay.com:
+    compatibility: 719
+    appid:
+    certid:
+    devid:
+    token:
+    siteid: 3 # 3 = United Kingdom
